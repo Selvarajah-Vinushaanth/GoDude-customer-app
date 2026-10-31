@@ -1,0 +1,6 @@
+{
+  "name": "GO DUDE – Ride-Hailing, Food Delivery & Savings",
+  "description": "Multi-service super app for Sri Lanka combining food delivery, Pick & Drop ride-hailing, parcel courier, automatic 10% customer savings, charity donations, and local offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
